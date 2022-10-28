@@ -6,3 +6,4 @@ tech-c:   PRATT166-ARIN
 mnt-by:   MAINT-EWP
 changed:  noc@ewpratten.com 20221028
 source:   ALTDB
+delete:     noc@ewpratten.com tmp
