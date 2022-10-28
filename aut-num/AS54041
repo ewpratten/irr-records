@@ -1,0 +1,10 @@
+aut-num:    AS54041
+as-name:    EVAN-PRATTEN
+descr:      Evan Pratten
+mp-import:  afi any.unicast from AS-ANY accept ANY
+mp-export:  afi any.unicast to AS-ANY announce AS-EWP
+admin-c:    PRATT166-ARIN
+tech-c:     PRATT166-ARIN
+mnt-by:     MAINT-EWP
+changed:    noc@ewpratten.com 20221028
+source:     ALTDB

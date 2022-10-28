@@ -1,0 +1,8 @@
+route:      44.31.119.0/24
+origin:     AS54041
+descr:      VA3ZZA
+admin-c:    PRATT166-ARIN
+tech-c:     PRATT166-ARIN
+mnt-by:     MAINT-EWP
+changed:    noc@ewpratten.com 20221028
+source:     ALTDB

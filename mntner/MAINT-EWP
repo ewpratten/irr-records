@@ -1,0 +1,11 @@
+mntner:     MAINT-EWP
+descr:      Evan Warren Pratten
+admin-c:    PRATT166-ARIN
+tech-c:     PRATT166-ARIN
+upd-to:     noc@ewpratten.com
+mnt-nfy:    noc@ewpratten.com
+auth:       CRYPT-PW 1/3QqXcBqwRsk
+changed:    noc@ewpratten.com 20221028
+mnt-by:     MAINT-EWP
+mnt-by:     MAINT-AS398057
+source:     ALTDB

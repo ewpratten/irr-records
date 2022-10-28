@@ -1,0 +1,8 @@
+as-set:   AS-EWP
+descr:    Evan Pratten AS-SET
+members:  AS398057,AS204466,AS54041
+admin-c:  PRATT166-ARIN
+tech-c:   PRATT166-ARIN
+mnt-by:   MAINT-EWP
+changed:  noc@ewpratten.com 20221028
+source:   ALTDB
